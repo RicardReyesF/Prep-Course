@@ -1,0 +1,14 @@
+Variable: Es un espacio para guardar informacion o datos de cualquier tipo para despues ser utilizadas 
+en alguna instruccion.
+
+String: se compone de letras, numeros o signos especiales y debe de estar dentro de " " para que funcione
+de manera correcta.
+
+Funciones: contiene argumentos que implican instrucciones que se ejecutan en el momento que se llama la funcion
+ademas de que retorna datos importates para el funcionamiento.
+
+Declaraciones IF: un if es una desicion sobre una condicion es decir si 5 es igual a 4 cumple con una instruccion
+pero si este no es igual, se determina otra instruccion para este caso.
+
+Valores booleanos: estos valor estan ligados al if en este caso si 5 es igual a 4 entonces true o verdadero
+si no es asi esta condicion sera false o falso.
