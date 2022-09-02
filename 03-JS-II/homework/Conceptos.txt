@@ -1,0 +1,4 @@
+Sentencia For: Es un ciclo que se repite hasta que alguien defina cuando terminara.
+Sentencia &&: Se utiliza en las desiciones y solo se cumple cuando dos o mas desiciones cumplan con lo acordado.
+Sentencia ||: Se utiliza en las desiciones y se cumple cuando alguna de las desiciones cumplan con lo acordado sin importar la otra desicion no cumpla con lo acordado.
+Sentencia !: Se utiliza en las desiciones y su funcion es llevar la contraria, por ejemplo verdadero se convierte en falso cuando existe esta Sentencia.
